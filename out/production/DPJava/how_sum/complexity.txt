@@ -1,0 +1,8 @@
+m = target sum
+n = size of numbers array
+After recursion:
+time complexity: O(n^m * m)
+space complexity: O(m)
+After memoized recursion:
+time complexity: O(n*m^2)
+space complexity: O(m^2)
